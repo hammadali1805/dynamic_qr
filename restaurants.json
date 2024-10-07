@@ -1,0 +1,201 @@
+[
+    {
+        "name": "Delicious Bites",
+        "location": {
+            "latitude": 40.7128,
+            "longitude": -74.0060
+        },
+        "menus": {
+            "breakfast": [
+                {
+                    "item": "Pancakes",
+                    "price": 7.99
+                },
+                {
+                    "item": "Omelette",
+                    "price": 6.5
+                },
+                {
+                    "item": "French Toast",
+                    "price": 8.25
+                }
+            ],
+            "lunch": [
+                {
+                    "item": "Caesar Salad",
+                    "price": 12.0
+                },
+                {
+                    "item": "Grilled Chicken Sandwich",
+                    "price": 10.75
+                }
+            ],
+            "dinner": [
+                {
+                    "item": "Filet Mignon",
+                    "price": 25.99
+                },
+                {
+                    "item": "Salmon with Lemon Butter",
+                    "price": 21.5
+                }
+            ]
+        }
+    },
+    {
+        "name": "Taste of India",
+        "location": {
+            "latitude": 19.0760,
+            "longitude": 72.8777
+        },
+        "menus": {
+            "breakfast": [
+                {
+                    "item": "Masala Dosa",
+                    "price": 3.5
+                },
+                {
+                    "item": "Idli Sambhar",
+                    "price": 2.75
+                }
+            ],
+            "lunch": [
+                {
+                    "item": "Butter Chicken",
+                    "price": 8.5
+                },
+                {
+                    "item": "Palak Paneer",
+                    "price": 7.0
+                }
+            ],
+            "dinner": [
+                {
+                    "item": "Biryani",
+                    "price": 9.0
+                },
+                {
+                    "item": "Fish Curry",
+                    "price": 10.0
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sushi Paradise",
+        "location": {
+            "latitude": 35.6762,
+            "longitude": 139.6503
+        },
+        "menus": {
+            "breakfast": [
+                {
+                    "item": "Miso Soup",
+                    "price": 5.0
+                },
+                {
+                    "item": "Tamago Sushi",
+                    "price": 7.0
+                }
+            ],
+            "lunch": [
+                {
+                    "item": "Sushi Platter",
+                    "price": 15.0
+                },
+                {
+                    "item": "Tempura",
+                    "price": 12.0
+                }
+            ],
+            "dinner": [
+                {
+                    "item": "Sashimi Set",
+                    "price": 18.0
+                },
+                {
+                    "item": "Unagi Don",
+                    "price": 20.0
+                }
+            ]
+        }
+    },
+    {
+        "name": "La Pasta",
+        "location": {
+            "latitude": 41.9028,
+            "longitude": 12.4964
+        },
+        "menus": {
+            "breakfast": [
+                {
+                    "item": "Cappuccino",
+                    "price": 4.0
+                },
+                {
+                    "item": "Croissant",
+                    "price": 3.5
+                }
+            ],
+            "lunch": [
+                {
+                    "item": "Spaghetti Carbonara",
+                    "price": 12.5
+                },
+                {
+                    "item": "Margherita Pizza",
+                    "price": 10.0
+                }
+            ],
+            "dinner": [
+                {
+                    "item": "Fettuccine Alfredo",
+                    "price": 14.0
+                },
+                {
+                    "item": "Lasagna",
+                    "price": 13.0
+                }
+            ]
+        }
+    },
+    {
+        "name": "Le Gourmet",
+        "location": {
+            "latitude": 48.8566,
+            "longitude": 2.3522
+        },
+        "menus": {
+            "breakfast": [
+                {
+                    "item": "Croissants",
+                    "price": 5.0
+                },
+                {
+                    "item": "Baguette with Butter and Jam",
+                    "price": 4.0
+                }
+            ],
+            "lunch": [
+                {
+                    "item": "Quiche Lorraine",
+                    "price": 10.5
+                },
+                {
+                    "item": "Nicoise Salad",
+                    "price": 9.5
+                }
+            ],
+            "dinner": [
+                {
+                    "item": "Coq au Vin",
+                    "price": 18.0
+                },
+                {
+                    "item": "Bouillabaisse",
+                    "price": 20.5
+                }
+            ]
+        }
+    }
+]

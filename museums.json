@@ -1,0 +1,137 @@
+[
+    {
+        "name": "The Louvre",
+        "location": {
+            "latitude": 48.8606,
+            "longitude": 2.3376
+        },
+        "address": "Rue de Rivoli, 75001 Paris, France",
+        "opening_time": "09:00",
+        "closing_time": "18:00",
+        "currently_open": true,
+        "description": "The Louvre is the world's largest art museum and a historic monument in Paris, France. It houses a vast collection of art and antiquities, including the famous Mona Lisa.",
+        "exhibitions": [
+            {
+                "title": "Egyptian Antiquities",
+                "description": "A rich collection of Egyptian artifacts and treasures."
+            },
+            {
+                "title": "Italian Renaissance",
+                "description": "Features works from Da Vinci, Michelangelo, and other Italian masters."
+            }
+        ],
+        "entrance_fee": {
+            "adults": 15.00,
+            "children": 0.00
+        },
+        "website": "https://www.louvre.fr"
+    },
+    {
+        "name": "The British Museum",
+        "location": {
+            "latitude": 51.5194,
+            "longitude": -0.1270
+        },
+        "address": "Great Russell St, Bloomsbury, London WC1B 3DG, UK",
+        "opening_time": "10:00",
+        "closing_time": "17:00",
+        "currently_open": false,
+        "description": "The British Museum in London is dedicated to human history, art, and culture, and it houses over eight million works from all continents.",
+        "exhibitions": [
+            {
+                "title": "Ancient Greece",
+                "description": "A look at the life and culture of ancient Greece."
+            },
+            {
+                "title": "Rosetta Stone",
+                "description": "One of the museum's most famous artifacts, the key to understanding Egyptian hieroglyphs."
+            }
+        ],
+        "entrance_fee": {
+            "adults": 0.00,
+            "children": 0.00
+        },
+        "website": "https://www.britishmuseum.org"
+    },
+    {
+        "name": "The Metropolitan Museum of Art",
+        "location": {
+            "latitude": 40.7794,
+            "longitude": -73.9632
+        },
+        "address": "1000 5th Ave, New York, NY 10028, USA",
+        "opening_time": "10:00",
+        "closing_time": "17:30",
+        "currently_open": true,
+        "description": "The Met is the largest art museum in the United States, showcasing over 5,000 years of art from every corner of the globe.",
+        "exhibitions": [
+            {
+                "title": "Arms and Armor",
+                "description": "A collection of historic armor and weapons from across the world."
+            },
+            {
+                "title": "European Paintings",
+                "description": "Masterpieces from the European Renaissance to the 19th century."
+            }
+        ],
+        "entrance_fee": {
+            "adults": 25.00,
+            "children": 0.00
+        },
+        "website": "https://www.metmuseum.org"
+    },
+    {
+        "name": "Rijksmuseum",
+        "location": {
+            "latitude": 52.3598,
+            "longitude": 4.8852
+        },
+        "address": "Museumstraat 1, 1071 XX Amsterdam, Netherlands",
+        "opening_time": "09:00",
+        "closing_time": "17:00",
+        "currently_open": false,
+        "description": "The Rijksmuseum is a Dutch national museum dedicated to arts and history in Amsterdam. It is best known for its collection of Dutch Golden Age paintings.",
+        "exhibitions": [
+            {
+                "title": "Rembrandt",
+                "description": "A showcase of works by Rembrandt van Rijn."
+            },
+            {
+                "title": "Dutch Masters",
+                "description": "Artworks from the Dutch Golden Age, including Vermeer and Frans Hals."
+            }
+        ],
+        "entrance_fee": {
+            "adults": 20.00,
+            "children": 0.00
+        },
+        "website": "https://www.rijksmuseum.nl"
+    },
+    {
+        "name": "State Hermitage Museum",
+        "location": {
+            "latitude": 59.9398,
+            "longitude": 30.3146
+        },
+        "address": "Palace Square, 2, St Petersburg, Russia, 190000",
+        "opening_time": "10:30",
+        "closing_time": "18:00",
+        "currently_open": false,
+        "description": "The Hermitage Museum in St Petersburg, Russia, is one of the largest and oldest museums in the world, housing over three million items, including the largest collection of paintings.",
+        "exhibitions": [
+            {
+                "title": "Russian Art",
+                "description": "Explore the history and development of Russian art."
+            },
+            {
+                "title": "Western European Art",
+                "description": "An extensive collection of European masterpieces from the Renaissance to the 19th century."
+            }
+        ],
+        "entrance_fee": {
+            "adults": 17.95,
+            "children": 0.00
+        },
+        "website": "https://www.hermitagemuseum.org"
+    }
+]
