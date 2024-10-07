@@ -113,7 +113,7 @@ def get_menu():
             }
         },
         "public": {
-            "qr": "https://rideonwhale.com/qrapi/get_menu",
+            "qr": "https://dynamic-qr-blue.vercel.app/qrapi/get_menu",
         },
         "response": api_response,
     }
@@ -158,7 +158,7 @@ def get_nearest_museum():
             }
         },
         "public": {
-            "qr": "https://rideonwhale.com/qrapi/nearest_museum",
+            "qr": "https://dynamic-qr-blue.vercel.app/qrapi/nearest_museum",
         },
         "response": api_response,
     }
